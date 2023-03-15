@@ -2,6 +2,8 @@
 
 __author__="Ashikha"
 
+#The following code was written while I was working as project associate under the guidance of Dr. Jeyaprakash Rajendhran, Genetics Department, Madurai Kamaraj University in 2022
+
 #To analyse the blast results in text format
 import sys
 import pandas as pd
